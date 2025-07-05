@@ -16,7 +16,6 @@ To analyze Netflix's streaming content data to:
 
 ## 🧾 Dataset Overview
 
-* **Source:** [Netflix Dataset](#)
 * **Total Entries:** 7,787
 * **Key Features:**
 
